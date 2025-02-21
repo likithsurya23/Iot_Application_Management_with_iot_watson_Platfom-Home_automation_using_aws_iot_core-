@@ -76,7 +76,6 @@ This project demonstrates how to control a light bulb remotely using an **ESP32 
 ## Conclusion
 
 This project successfully demonstrates the integration of **ESP32** with **AWS IoT Core** to enable remote control of household appliances. By leveraging **MQTT protocol** and cloud-based IoT management, users can efficiently automate and monitor devices from anywhere in the world.
-Although the initial plan was to implement the system using **IBM Watson IoT Platform**, unforeseen issues with **IBM Cloud account creation** prevented its use. Despite this setback, switching to **AWS IoT Core** provided a reliable and scalable alternative for managing IoT devices.
 This implementation showcases the potential of **home automation**, where smart appliances can be controlled securely and efficiently using cloud platforms. Future improvements could include **integration with voice assistants**, **real-time energy monitoring**, and **mobile app control** to enhance user experience and expand automation capabilities.
 By adopting **cloud-based IoT solutions**, this project highlights how **smart homes** can become more accessible, energy-efficient, and secure, paving the way for future advancements in IoT and automation technology.
 
